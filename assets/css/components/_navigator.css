@@ -33,7 +33,7 @@
 }
 
 .navigator::before {
-    content: "";
+    content: '';
     position: absolute;
     top: 0;
     width: 2px;
